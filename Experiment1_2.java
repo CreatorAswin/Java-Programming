@@ -21,7 +21,7 @@ public class Experiment1_2 {
             char grade = 'A';
     
             // Displaying the information
-            System.out.println("Student Details:");
+            System.out.println("Student Details: ");
             System.out.println("Name: " + name);
             System.out.println("Registration Number: " + regNo);
             System.out.println("Branch: " + branch);

@@ -21,7 +21,7 @@ public class Experiment1_3 {
         double remainder = num1 % num2;
 
         // Display the results
-        System.out.println("Results of Arithmetic Operations:");
+        System.out.println("Results of Arithmetic Operations: ");
         System.out.println("Sum: " + sum);
         System.out.println("Difference: " + difference);
         System.out.println("Product: " + product);

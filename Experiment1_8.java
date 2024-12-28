@@ -5,7 +5,7 @@ public class Experiment1_8 {
         Scanner scanner = new Scanner(System.in);
 
         // Input the dimensions of the matrices
-        System.out.println("Enter the number of rows and columns for the matrices:");
+        System.out.println("Enter the number of rows and columns for the matrices: ");
         int rows = scanner.nextInt();
         int cols = scanner.nextInt();
 

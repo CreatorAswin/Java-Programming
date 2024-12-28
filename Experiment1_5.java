@@ -7,7 +7,7 @@ public class Experiment1_5 {
             }
     
             // Using a while loop to print numbers from 6 to 10
-            System.out.println("\nUsing a while loop:");
+            System.out.println("\nUsing a while loop: ");
             int j = 6;
             while (j <= 10) {
                 System.out.println(j);

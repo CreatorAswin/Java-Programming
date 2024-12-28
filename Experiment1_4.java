@@ -23,7 +23,7 @@ public class Experiment1_4 {
         }
 
         // Additional check using a switch-case statement
-        System.out.println("\nAdditional Remark:");
+        System.out.println("\nAdditional Remark: ");
         switch (marks / 10) {
             case 10:
             case 9:

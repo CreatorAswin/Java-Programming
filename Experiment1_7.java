@@ -18,7 +18,7 @@ public class Experiment1_7 {
         }
 
         // Display elements of the array
-        System.out.println("\nElements of the array:");
+        System.out.println("\nElements of the array: ");
         for (int i = 0; i < size; i++) {
             System.out.print(numbers[i] + " ");
         }

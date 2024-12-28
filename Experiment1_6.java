@@ -31,7 +31,7 @@ public class Experiment1_6 {
         if (str1.length() >= 3) {
             System.out.println("Substring of the first string (first 3 characters): " + str1.substring(0, 3));
         } else {
-            System.out.println("First string is too short for a substring.");
+            System.out.println("First string is too short for a substring. ");
         }
 
         // 6. Character at a specific index
